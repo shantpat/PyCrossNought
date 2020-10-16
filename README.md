@@ -28,6 +28,7 @@ Tic Tac Toe Python Bot
 - The probability is calculated assuming that player 2 enters random moves.
 
 ## Explination
+- The main program considers all possible cases to ensure victory
 ### print_board()
 - This functions thakes the current values of the board and prints the board in given format when called
 
@@ -45,8 +46,9 @@ then tie_algorithm is called
    6) blocking 3 'O' diagonal
  
  ### ask_to_play()
- - Asks user to input his nexxt move
+ - Asks user to input his next move
  
+
  ## To Do :
  - PyGame Based Ui for the game
  - Maximing winning Probability for Player 2
