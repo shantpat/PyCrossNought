@@ -2,7 +2,7 @@
 ![banner](https://papergames.io/images/tic-tac-toe/thumbnail.png)
 
 
-Tic Tac Toe Python Bot
+## Tic Tac Toe Python Bot (99.2% winning Probability)
 
 ## Features:
 - This Python Script uses naive algorithms to maximise winning probability for player 1
